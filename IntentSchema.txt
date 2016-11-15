@@ -1,0 +1,53 @@
+
+{
+  "intents": [
+    {
+      "intent": "GetRecipeNameIntent",
+      "slots": [
+        {
+          "name": "Ingredient",
+          "type": "LIST_OF_INGREDIENTS"
+        }
+      ]
+    },
+    {
+      "intent": "TellMeIngredientsIntent",
+      "slots": [
+        {
+          "name": "Recipe",
+          "type": "LIST_OF_RECIPES"
+        }
+      ]
+    },
+    {
+      "intent": "TellMeStepsIntent",
+      "slots": [
+        {
+          "name": "Recipe",
+          "type": "LIST_OF_RECIPES"
+        }
+      ]
+    },
+    {
+      "intent": "TellMeMoreIntent",
+      "slots": [
+        {
+          "name": "Recipe",
+          "type": "LIST_OF_RECIPES"
+        }
+      ]
+    },
+    {
+      "intent": "RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
