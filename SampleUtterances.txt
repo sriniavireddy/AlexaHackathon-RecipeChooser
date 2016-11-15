@@ -1,0 +1,17 @@
+GetRecipeNameIntent tell me recipe with {Ingredient}
+GetRecipeNameIntent tell me recipe name with {Ingredient}
+GetRecipeNameIntent give me recipe name with {Ingredient}
+GetRecipeNameIntent give me recipe name with {Ingredient}
+TellMeMoreIntent tell me more about the {Recipe}
+TellMeMoreIntent tell me more about the dish {Recipe}
+TellMeMoreIntent what is {Recipe}
+TellMeIngredientsIntent tell me ingredients for {Recipe}
+TellMeIngredientsIntent give me ingredients for {Recipe}
+TellMeStepsIntent tell me steps for {Recipe}
+TellMeStepsIntent give me steps for {Recipe}
+TellMeStepsIntent tell me next step for {Recipe}
+TellMeStepsIntent give me next step for {Recipe}
+TellMeStepsIntent give me next step
+TellMeStepsIntent tell me next step
+RepeatIntent can you the repeat the step
+RepeatIntent repeat the step
